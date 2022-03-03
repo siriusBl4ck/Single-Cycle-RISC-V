@@ -1,0 +1,8 @@
+cpu.v
+cpu_tb.v
+dmem.v
+imem.v
+alu.v
+regFile.v
+masker.v
+storeAddrMasker.v
